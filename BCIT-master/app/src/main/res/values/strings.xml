@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BCIT</string>
+    <string name="action_settings">Settings</string>
+    <string name="bcit_logo">BCIT Logo</string>
+    <string name="title_activity_set_mate">SetMateActivity</string>
+    <string name="title_activity_courses">CoursesActivity</string>
+    <string name="title_activity_tasks">TasksActivity</string>
+    <string name="title_activity_course">CourseActivity</string>
+
+    <string-array name="top_level_options">
+        <item>Courses</item>
+        <item>Tasks</item>
+        <item>Set-mates</item>
+    </string-array>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_student_courses_list">studentCoursesList</string>
+</resources>
